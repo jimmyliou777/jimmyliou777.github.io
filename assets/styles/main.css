@@ -3,3 +3,11 @@ body {
     color: #414655;
     font-family: "PingFangSC-Regular", "Microsoft JhengHei", arial, Helvetica;
 }
+
+.main_block_1 {
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
