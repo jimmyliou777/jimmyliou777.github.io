@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{QeBL:function(n,e,o){"use strict";o.r(e);var t=o("q1tI"),a=o.n(t),c=o("HHUu");e.default=function(){return a.a.useEffect((function(){console.log("123")}),[]),a.a.createElement("div",{className:c.navLink},"Hello world!")}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-da1a45f76ed7cc6712fa.js.map
